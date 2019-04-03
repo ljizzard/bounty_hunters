@@ -18,6 +18,7 @@ hunter2.save()
 hunters = BountyHunter.all()
 
 hunters.find_by_name = .
+# you are a method for a {}.  Why can I not think of you as one?
 
-# SELECT 
+# SELECT
 binding.pry
